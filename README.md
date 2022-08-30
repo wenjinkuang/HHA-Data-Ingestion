@@ -1,9 +1,9 @@
 Instructions: 
--Create a Github repo called ‘hha-data-ingestion’ in your account and write a python script (.py file) that does the following below (Section 1, Section 2, Section 2). 
--Please include a folder in the repo called 'data',  that contains the excel files that you use for Section 1. 
--Please provide PUBLIC repo,  GitHub URL when submitting this assignment. 
--Please use comments (# or """) in your .py script to let me know what you are doing. 
--If you run into any errors that you can't solve, please take screen shots of those errors, and put them into a 'error' folder 
+Create a Github repo called ‘hha-data-ingestion’ in your account and write a python script (.py file) that does the following below (Section 1, Section 2, Section 2). 
+Please include a folder in the repo called 'data',  that contains the excel files that you use for Section 1. 
+Please provide PUBLIC repo,  GitHub URL when submitting this assignment. 
+Please use comments (# or """) in your .py script to let me know what you are doing. 
+If you run into any errors that you can't solve, please take screen shots of those errors, and put them into a 'error' folder 
 inside of your github repo so I can see what they were. 
 
 Deliverables: 
