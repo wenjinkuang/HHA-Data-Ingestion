@@ -1,0 +1,4 @@
+pandas # for dataframe
+requests # requests
+google-cloud-bigquery # for bigquery 
+xlrd # for excel processing
